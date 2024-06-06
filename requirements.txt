@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+redis
+fakeredis
+pytest
+httpx
+pytest-asyncio
+fastapi-limiter
+responses
+requests-mock
